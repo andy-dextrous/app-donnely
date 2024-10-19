@@ -1,4 +1,8 @@
+wp-config.php
+.htaccess
 /wp-config.php
+/.htaccess
+
 # Ignore cache and logs
 /wp-content/cache/
 /wp-content/debug.log
