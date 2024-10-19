@@ -1,11 +1,3 @@
-# Ignore WordPress core files
-/wp-admin/
-/wp-includes/
-/wp-config.php
-
-# Ignore user uploads
-/wp-content/uploads/
-
 # Ignore cache and logs
 /wp-content/cache/
 /wp-content/debug.log
