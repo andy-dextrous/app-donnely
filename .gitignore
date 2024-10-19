@@ -1,0 +1,28 @@
+# Ignore cache and logs
+/wp-content/cache/
+/wp-content/debug.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore SFTP config
+.vscode/
+.idea/
+
+# Ignore node modules and build files (if any)
+node_modules/
+dist/
+
+# Ignore composer dependencies (if any)
+vendor/
+
+# Ignore environment files
+.env
+
+
+wp-config.php
+.htaccess
+/wp-config.php
+/.htaccess
+
